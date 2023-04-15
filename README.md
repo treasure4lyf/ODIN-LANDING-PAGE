@@ -10,6 +10,9 @@ Odin Landing Page
 
 ## Live Demo 
 [Live Demo Link]https://github.com/treasure4lyf/ODIN-LANDING-PAGE
+
+https://github.com/treasure4lyf/ODIN-LANDING-PAGE
+
 ## Getting Started
 
 The goal of this project is to:
