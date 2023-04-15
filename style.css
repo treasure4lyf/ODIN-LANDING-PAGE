@@ -11,7 +11,6 @@ padding: 10px;
 #header {
     justify-content: center;
     color: white;
-  border: red solid; 
   margin-top: 50px;
   margin-bottom: 50px;
 }
@@ -43,15 +42,14 @@ background-color: ;
 }
 .open {
    display: flex;
-    border: yellow solid;
     min-height: 0px;
     justify-content: center;
 
 }
 
 .now {
-  border: white solid;
-  /* background-color: white; */
+  
+  background-color: white;
 }
 
 .info {
@@ -60,13 +58,11 @@ background-color: ;
 #flexbox {
   flex: 1;
   display: flex;
-  border: red;
   gap: 16px;
 }
 
 #quote {
   color: #ddd;
-  border: #fefefe solid;
   
 }
 div #quote, #main{
@@ -78,8 +74,7 @@ text-align: center;
 #footer {
   color: white;
   background-color: black;
-  border: #f44336;
-  padding: 32px;
+    padding: 32px;
 }
   .call {
     background-color: #888;
