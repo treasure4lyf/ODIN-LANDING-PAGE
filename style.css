@@ -33,7 +33,7 @@ a {
     padding: 52px;
     gap: 32px;
     margin-bottom: 32px;
-color: white;
+    color: white;
 }
 
 #bold {
@@ -48,8 +48,8 @@ background-color: ;
 }
 
 .now {
-  
-  background-color: white;
+
+  /* background-color: white; */
 }
 
 .info {
@@ -58,13 +58,13 @@ background-color: ;
 #flexbox {
   flex: 1;
   display: flex;
+  /* border: red; */
   gap: 16px;
 }
 
 #quote {
   color: #ddd;
-  
-}
+  }
 div #quote, #main{
 text-align: center;
 }
@@ -74,7 +74,8 @@ text-align: center;
 #footer {
   color: white;
   background-color: black;
-    padding: 32px;
+
+  padding: 32px;
 }
   .call {
     background-color: #888;
