@@ -19,7 +19,7 @@ The goal of this project is to:
 - Build a personaL WEBSITsite.
 - Use images and backgrounds to enhance the look of the website.
 
-👤 Ezea Chiamaka Ezea
+👤 Ezea Chiamaka
 
 - GitHub: [@treasure4lyf]https://github.com/treasure4lyf
 - Twitter: [@ChiamakaEzea](https://twitter.com/ChiamakaEzea)
