@@ -1,46 +1,46 @@
-Project Name
+## Project Name
+
 Odin Landing Page
 
-Built With
-Odin landing page template
-HTML & CSS
-Javascript
-Live Demo
-Live Demo Link
+## Built With
 
-Getting Started
+- odin landing page template
+- HTML & CSS
+- Javascript 
+
+## Live Demo 
+[Live Demo Link]https://github.com/treasure4lyf/ODIN-LANDING-PAGE
+## Getting Started
+
 The goal of this project is to:
+- Understand how to create a simple website.
 
-Understand how to:
-create a simple website.
+- Test my knowlege in the use oflexbox to place elements in the page.
+- Build a personaL WEBSITsite.
+- Use images and backgrounds to enhance the look of the website.
 
-use lexbox to place elements in the page.
+👤 Ezea Chiamaka Ezea
 
-Build a personal landing site.
+- GitHub: [@treasure4lyf]https://github.com/treasure4lyf
+- Twitter: [@ChiamakaEzea](https://twitter.com/ChiamakaEzea)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/chiamaka-ezea-b75231187/)
+- Gmail: chiamakaginika57@gmail.com
 
-Use images and backgrounds to enhance the look of the website.
+## 🤝 Contributing
 
-bust_in_silhouette Ezea Chiamaka Ginika
-
-GitHub: @stephnna
-Twitter: @stephnna
-LinkedIn: Linkedin
-handshake Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
-Give a star if you like this project!
+## Show your support
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+Give a ⭐️ if you like this project!
 
-About
-This project is my first website in Odin. click view live and then see projects to view all projects
+## Acknowledgments
 
-https://github.com/treasure4lyf/ODIN-LANDING-PAGE
-
-
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+contributors
+@stephennna
+@treasure4lyf
