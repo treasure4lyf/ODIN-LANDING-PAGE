@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A LANDING PAGE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="flex container">
+    <div id="header">
+    <div class="topnav">
+            <div id="logo">Header Logo</div>
+            <a href="#header link one">header link one</a>
+            <a href="#header link two">header link two</a>
+            <a href="#header link three">header link three</a>
+           </div>
+           <div class="open">
+   <div id="link one"> 
+        <h1 id="bold"> This website is awesome</h1>
+        <h6 class="small">This website has some subtext that goes here under the main title</h6>
+        <h6 class="smaller">it's a smaller font and the color is lower</h6>
+       
+       <button onclick="document.getElementById('id01').style.display='block'">Sign Up</button>
+
+<!-- The Modal (contains the Sign Up form) -->
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">x</span>
+  <form class="modal-content" action="/action_page.php">
+    <div class="container">
+      <h1>Sign Up</h1>
+      <p>Please fill in this form to create an account.</p>
+      <hr>
+      <label for="email"><b>Email</b></label>
+      <input type="text" placeholder="Enter Email" name="email" required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+
+      <label for="psw-repeat"><b>Repeat Password</b></label>
+      <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+      <label>
+        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      </label>
+
+      <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+
+      <div class="clearfix">
+        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signup">Sign Up</button>
+      </div>
+    </div>
+  </form>
+</div>
+</div>
+<img class="im" src="https://dummyimage.com/300x80/000988/f1f1f1.png&text=This+is+a+placeholder+for+an+image" style="align-self: flex-end; background-color: aliceblue;">
+  
+   
+    </div>
+</section>
+
+<section class="now">
+<h1 class="info">Some random information</h1>
+<div id="flexbox">
+<div id="container1">
+    <div id="box"></div>
+        <div class="text">this is some subtext under an  illustration or image</div>
+</div>
+<div class="container2">
+    <div id="box"></div>
+        <div class="text">this is some subtext under an  illustration or image</div>
+    </div>
+
+    <div class container3>
+        <div id="box"></div>
+        <div class="text">this is some subtext under an  illustration or image</div>
+    </div>
+      <div class container4>
+        <div id="box"></div>
+        <div class="text">this is some subtext under an  illustration or image</div>
+    </div>
+</div>
+</div>
+</section>
+
+
+<div id="quote">
+    <em id="main"> This is an inspiring quote , or a testimonial from a customer<br> it's just filling up space, or maybe will actually read it.<br> Who knows? All I know is that it looks nice.>
+    <h3 class="thor">-Thor, God of Thunder </h3>
+</div>
+
+<div class="call">
+    <div>Call to action! it's time!
+    <h5>Sign up for our product by clicking that button right over there</h5>
+</div>
+    <button onclick="document.getElentById('idol').style.display='block'">Sign Up</button>
+    <div id="idol" class="modal">
+ <span onclick="document.getElentById('idol').style.display='none'" class="close" title="Close Modal">times;</span>
+   
+ <form class="modal-content" action="/action_page.php">
+ <div class="containeer">
+     <h1>Sign Up</h1>
+     <p>Please fill in this form to create an account.</p>
+ <hr>
+ <label for="email"> <b>Email</b></label>
+ 
+ <input type="text" placeholder="Enter your email" name="email" required>
+ <label for="password"> <b>Password</b></label>
+ <input type="text" placeholder="Enter your password" name="psw" required>
+ <label for="psw-repeat"> <b>Repeat Password</b></label>
+ <input type="text" placeholder="Repeat password" name="psw-repeat" required>
+ <label>
+     <input type="checkbox" checked="checked" name="remember" style="margin-bottom: 15px;">
+ Remember me</label>
+ <p>By creating an account you agree to our <a href="#">Terms & Condition</a></p>
+ <div class="clearfix"></div>
+ <button type="button" onclick="document.getElementById('idol').style.display='none'" class="cancelbtn">Cancel</button>
+ <button type="submit" class="signup">Sign Up</button>
+ </div>
+ </div>
+    </form>
+ </div>
+     </div>
+
+<footer id="footer">
+    <h3> Copyright! <span>&copy;</span> Chiamaka's Landing Project 2023</h3>
+    </footer>
+</div>
+</div>
+</body>
+</html>
