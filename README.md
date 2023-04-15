@@ -9,11 +9,9 @@ Odin Landing Page
 - Javascript 
 
 ## Live Demo 
-[Live Demo Link]https://github.com/treasure4lyf/ODIN-LANDING-PAGE
+[Live Demo Link]https://treasure4lyf.github.io/ODIN-LANDING-PAGE/
 
-https://github.com/treasure4lyf/ODIN-LANDING-PAGE
-
-## Getting Started
+# Getting Started
 
 The goal of this project is to:
 - Understand how to create a simple website.
