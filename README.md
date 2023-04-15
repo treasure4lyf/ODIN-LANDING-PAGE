@@ -43,5 +43,5 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## contributors
-@stephennna
-@treasure4lyf
+- @stephennna
+- @treasure4lyf
